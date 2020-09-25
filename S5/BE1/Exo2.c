@@ -3,7 +3,7 @@
 
 /* PARTIE 2 BE1 */
 
-int main2(){
+int main(){
     short var_short = 2;
     int var_int = 2;
     char var_char = 2;
