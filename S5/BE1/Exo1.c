@@ -2,7 +2,7 @@
 
 /* PARTIE 1 BE1 */
 
-int main1(){
+int main(){
     int val_int = 2;
     float val_float = 1.53;
 
