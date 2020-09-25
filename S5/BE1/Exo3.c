@@ -2,7 +2,7 @@
 
 /* PARTIE 3 BE1 */
 
-int main3(){
+int main(){
     char a = 2;
     char b = 3;
 
