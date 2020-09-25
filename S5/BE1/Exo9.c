@@ -2,7 +2,7 @@
 
 /* EXO9 BE1 */
 /* Prototype */
-
+int findy(int a, int x, int b);
 
 int main(){
     int a, b, x;
