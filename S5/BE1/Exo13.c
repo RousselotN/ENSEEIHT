@@ -12,5 +12,6 @@ int main(){
         fprintf(fp, "TAB[%d] = %c\n", i, tab[i]);
         i++;
     }
+    fclose(fp);
     return 0;
 }
